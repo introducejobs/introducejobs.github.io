@@ -1,0 +1,11 @@
+# jobs.yaml — single source of truth for the board
+# Add new listings here (via PR or after converting an Issue submission).
+# README.md is auto-generated FROM this file — don't hand-edit the table in README.md.
+
+- company: "Example Startup"
+  role: "Founding Ops Associate"
+  city: "Indore"
+  type: "Full-time"
+  apply_link: "https://example.com/careers/founding-ops"
+  source: "manual"
+  posted_date: "2026-07-27"
