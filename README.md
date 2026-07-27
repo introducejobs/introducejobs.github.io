@@ -1,4 +1,4 @@
-# introducejobs 🚀
+# Introduce Jobs 🚀
 
 A community-updated board of startup job openings across Indian cities — maintained like an open-source repo, not a static list.
 
